@@ -3,10 +3,10 @@
 <h3 align="left">Computer Engineering Undergrad</h3>
 
 
-- 🔭 I’m currently working on **Frontend and Backend development technologies like Javascript,** 
-      **NodeJs, React etc.**
+- 🔭 I’m currently working on **Frontend technologies like Javascript,** 
+      **React etc.**
 
-- 🌱 I’m currently learning about **MERN Stack development.**
+- 🌱 I’m currently learning about **MERN Stack development** and **Competitive Programming**.
 
 - 📫 How to reach me **pratyushjena8@gmail.com**
 
