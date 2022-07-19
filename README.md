@@ -3,8 +3,8 @@
 <h3 align="left">Computer Engineering Undergrad</h3>
 
 
-- 🔭 I’m currently working on **Frontend technologies like Javascript,** 
-      **React etc.**
+- 🔭 I’m currently working on **Frontend technologies like React Js,** 
+      **Redux etc.**
 
 - 🌱 I’m currently learning about **MERN Stack development** and **Competitive Programming**.
 
